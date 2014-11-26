@@ -67,3 +67,6 @@
 [submodule "plugins/aws_rds"]
 	path = plugins/aws_rds
 	url = git@github.com:boundary/boundary-plugin-aws-rds.git
+[submodule "plugins/asterisk"]
+	path = plugins/asterisk
+	url = git@github.com:cmorford/boundary-plugin-asterisk.git
